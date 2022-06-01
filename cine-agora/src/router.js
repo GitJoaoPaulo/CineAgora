@@ -13,7 +13,7 @@ function RouteApp(){
             <Routes>
                 <Route path="/" element={ <Home/> } />
                 <Route path="/filme/:id" element={ <Filme/> } />
-                <Route path="/favorito" element={ <Favorito/> } />
+                <Route path="/favoritos" element={ <Favorito/> } />
 
                 <Route path="*" element={ <Erro/> } />
             </Routes>
