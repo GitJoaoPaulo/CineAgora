@@ -15,5 +15,7 @@ Projeto com objetivo de treinar os conhecimentos adquiridos no curso ReactJs do 
 
 https://user-images.githubusercontent.com/79288635/171498479-0bbbb244-8b21-4dbe-8624-3bc085ddcd9f.mp4
 
+## Acesse o projeto <a href="https://cine-agora.netlify.app/">aqui</a>
+
 ### Para rodar o projeto:
 `npm start`
